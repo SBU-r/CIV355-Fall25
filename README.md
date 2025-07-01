@@ -1,7 +1,7 @@
 # CIV355-Fall25
 
 
-Course Schedule
+**Course Schedule**
 
 |Date          |Module          |Topic        |Detail      |
 | -------------|----------------|-------------|------------|
