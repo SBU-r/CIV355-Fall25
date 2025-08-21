@@ -6,9 +6,10 @@ This repository is created for the elective course CIV 355: Introduction to Data
 **Course Schedule**
 
 |Date          |Module  and Topic        |Lecture Notes    |Jupyter Notebooks   |Colab Notebooks      
-| ------------------|-----------------------------------------|-------------------------------|--------------------|------------|
-|           |1. Fundamentals of Python Programming    |Module 1.pdf        
-|August 25           |1.1 Python Coding Environment  |         |        | Start Colab.ipynb   |
+| -------------------|-----------------------------------------|-------------------------------|--------------------|------------|
+|                    |1. Fundamentals of Python Programming    |Module 1.pdf        
+|August 25           |1.1 Python Coding Environment            |                               |                    | Start Colab.ipynb   |
+|August 27           |1.2 Numpy: Arrays and vectorized computation                             |                    |                     |
 
  
 
