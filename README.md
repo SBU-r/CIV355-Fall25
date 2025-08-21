@@ -1,4 +1,6 @@
-# CIV355: Intro to Data Sciences and Machine Learning for Civil Engineering (Fall 2025)
+# CIV355: Intro to Data Sci and ML for CIV (Fall 2025)
+
+This repository is created for the fall 2025 elective course CIV 355" Introduction to Data Sciences and Machine Learning for Civil Engineering at Stony Brook University. 
 
 
 **Course Schedule**
