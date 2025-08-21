@@ -1,4 +1,4 @@
-# CIV355-Fall25
+# CIV355: Intro to Data Sciences and Machine Learning for Civil Engineering (Fall 2025)
 
 
 **Course Schedule**
