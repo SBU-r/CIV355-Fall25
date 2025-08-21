@@ -5,7 +5,7 @@
 
 |Date          |Module  and Topic        |Lecture Notes    |Jupyter Notebooks   |Colab Notebooks      
 | ------------------|-----------------------------------------|-------------------------------|--------------------|------------|
-|August 25           |1. Fundamentals of Python Programming
+|           |1. Fundamentals of Python Programming
 |August 25           |1.1 Python Coding Environment  |Module 1.pdf        |        | Start Colab.ipynb   |
 
  
