@@ -5,7 +5,7 @@
 
 |Date          |Module          |Topic        |Detail      |
 | -------------|----------------|-------------|------------|
-|August 25       |1. Fundamentals of Python Programming   |Python Coding Environment| [Notes](Lecture Notes/Module1.pdf) [CN] [JN]|
+|August 25       |1. Fundamentals of Python Programming   |Python Coding Environment| [Notes](Lecture%20Notes/Module%201.pdf) [CN] [JN]|
 
  
 
