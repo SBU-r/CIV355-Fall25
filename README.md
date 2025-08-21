@@ -5,7 +5,7 @@
 
 |Date          |Module          |Topic        |Lecture Notes    |Jupyter Notebooks   |Colab Notebooks      
 | -------------|----------------|-------------|------------|------------|------------|
-|August 25       |1. Fundamentals of Python Programming   |Python Coding Environment|Notes| [CN]| [JN]|
+|August 25       |1. Fundamentals of Python Programming   |Python Coding Environment|[Notes](Lecture Notes/Module 1.pdf)| [CN]| [JN]|
 
  
 
