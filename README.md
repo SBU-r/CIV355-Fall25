@@ -11,7 +11,8 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Aug 26           |1.1 Python Coding Environment            |                               |                    | Start Colab.ipynb   |
 |Aug 28           |1.2 Numpy                             |                    |Numpy.ipynb                     |
 |Sep 02           |1.3 Pandas| |Pandas.ipynb|
-|Sep 04           |1.4 Data Cleaning and Preparation|
+|Sep 04           |1.4 Data Cleaning and Preparation|     |data_preparation.ipynb
+
  
 
 
