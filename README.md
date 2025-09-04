@@ -12,7 +12,7 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Aug 28           |1.2 Numpy                             |                    |Numpy.ipynb                     |
 |Sep 02           |1.3 Pandas| |Pandas.ipynb|
 |Sep 04           |1.4 Data Cleaning and Preparation|     |Data_Preparation.ipynb
-
+|Sep 09           |2. Data Understanding, Description, and Summary|    |Data_Understanding.ipynb
  
 
 
