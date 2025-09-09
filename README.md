@@ -12,7 +12,13 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Aug 28           |1.2 Numpy                             |                    |Numpy.ipynb                     |
 |Sep 02           |1.3 Pandas| |Pandas.ipynb|
 |Sep 04           |1.4 Data Cleaning and Preparation|     |Data_Preparation.ipynb
-|Sep 09           |2. Data Understanding, Description, and Summary|    |Data_Understanding.ipynb
+|                 |2. Data Understanding, Description, and Summary|    |Data_Understanding.ipynb
+|Sep 09           |2.1 Data loading and an initial check|
+|                 |2.2 Data modification|
+|                 |2.3 Data distribution|
+|                 |2.4 Data discription|
+|Sep 11           |2.5 Data aggregration and grouping
+|                 |2.6 Cross-tabulation for data summary 
  
 
 
