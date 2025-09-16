@@ -1,4 +1,4 @@
-# CIV355: Intro to Data Sci and ML for CIV (Fall25)
+# CIV355: Intro to Data Sci and AI for CIV (Fall25)
 
 This repository is created for the elective course CIV 355: Introduction to Data Sciences and Machine Learning (fall 2025) for Civil Engineering at Stony Brook University. Students download course materials in this rep but submit their assignments to BrightSpace.
 
