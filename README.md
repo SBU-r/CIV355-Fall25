@@ -19,7 +19,7 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |                 |2.4 Data discription|
 |Sep 16           |2.5 Data aggregration and grouping
 |                 |2.6 Cross-tabulation for data summary 
-|Sep 18           |3.1 Data visualization - Matplotlib and pandas.DataFrame.plot |Data_Visualization.ipynb
+|Sep 18           |3.1 Data visualization - Matplotlib and pandas.DataFrame.plot | |Data_Visualization.ipynb
 |Sep 23           |3.2 Data visualization - Plotly
 |Sep 25           |3.3 Data visualization - Seaborn
 
