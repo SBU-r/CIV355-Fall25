@@ -22,6 +22,7 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Sep 18           |3.1 Data visualization - Matplotlib and pandas.DataFrame.plot | |Data_Visualization.ipynb
 |Sep 23           |3.2 Data visualization - Plotly
 |Sep 25           |3.3 Data visualization - Seaborn
+|Sep 30           |4. Sampling and Statistical Inferences|Sampling_Statistical_Inferences.pdf|Sampling_Statistical_Inference.ipynb
 
 
  
