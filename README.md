@@ -13,15 +13,12 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Sep 02           |1.3 Pandas| |Pandas.ipynb|
 |Sep 04           |1.4 Data Cleaning and Preparation|     |Data_Preparation.ipynb
 |                 |2. Data Understanding, Description, and Summary|    |Data_Understanding.ipynb
-|Sep 09           |2.1 Data loading and an initial check|
-|                 |2.2 Data modification|
-|Sep 09           |2.3 Data distribution|
-|                 |2.4 Data discription|
-|Sep 16           |2.5 Data aggregration and grouping
-|                 |2.6 Cross-tabulation for data summary 
-|Sep 18           |3.1 Data visualization - Matplotlib and pandas.DataFrame.plot | |Data_Visualization.ipynb
-|Sep 23           |3.2 Data visualization - Plotly
-|Sep 25           |3.3 Data visualization - Seaborn
+|Sep 09           |2. Data Understanding, Description, and Summary (cont.)
+|Sep 11           |2. Data Understanding, Description, and Summary (cont.)
+|Sep 16           |2. Data Understanding, Description, and Summary (cont.)
+|Sep 18           |3. Data visualization |Data_Visualization.ipynb
+|Sep 23           |3. Data visualization (cont.)
+|Sep 25           |3. Data visualization (cont.)
 |Sep 30           |4. Sampling and Statistical Inferences|Sampling_Statistical_Inferences.pdf|Sampling_Statistical_Inference.ipynb
 
 
