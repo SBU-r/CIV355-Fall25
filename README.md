@@ -16,7 +16,7 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Sep 09           |2. Data Understanding, Description, and Summary (cont.)     |
 |Sep 11           |2. Data Understanding, Description, and Summary (cont.)     |
 |Sep 16           |2. Data Understanding, Description, and Summary (cont.)     |
-|Sep 18           |3. Data visualization |                                     |     data_Visualization.ipynb     |
+|Sep 18           |3. Data visualization |                                     |     Data_Visualization.ipynb     |
 |Sep 23           |3. Data visualization (cont.)     |
 |Sep 25           |3. Data visualization (cont.)     |
 |Sep 30           |4. Sampling and Statistical Inferences           |                |Sampling_Statistical_Inference.ipynb
