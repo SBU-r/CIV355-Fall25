@@ -20,6 +20,7 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Sep 23           |3. Data visualization (cont.)     |
 |Sep 25           |3. Data visualization (cont.)     |
 |Sep 30           |4. Sampling and Statistical Inferences           |                |Sampling_Statistical_Inference.ipynb
+|Oct 02           |4. Sampling and Statistical Inferences (cont.)
 
 
  
