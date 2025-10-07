@@ -21,6 +21,14 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Sep 25           |3. Data visualization (cont.)     |
 |Sep 30           |4. Sampling and Statistical Inferences           |                |Sampling_Statistical_Inference.ipynb
 |Oct 02           |4. Sampling and Statistical Inferences (cont.)
+|Oct 07           |5. Hypothesis Testing                         |                   |Hypothesis_Testing.ipynb
+|Oct 09           |5. Hypothesis Testing (cont.)       
+|Oct 14           |Fall recess (no class)
+|Oct 16           |6. Monte Carlo Simualtion                      |                    |Monte_Carlo_Simulation.ipynb
+|Oct 21
+|Oct 23
+|Oct 28
+|Oct 30           |Exam (in class)
 
 
  
