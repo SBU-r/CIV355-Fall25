@@ -24,8 +24,8 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Oct 07           |5. Hypothesis Testing                         |                   |Hypothesis_Testing.ipynb
 |Oct 09           |5. Hypothesis Testing (cont.)       
 |Oct 14           |Fall recess (no class)
-|Oct 16           |6. Monte Carlo Simualtion                      |                    |Monte_Carlo_Simulation.ipynb
-|Oct 21
+|Oct 16           |6. Monte Carlo Simulation                      |                    |Monte_Carlo_Simulation.ipynb
+|Oct 21           |6. Monte Carlo Simulation (cont.)
 |Oct 23
 |Oct 28
 |Oct 30           |Exam (in class)
