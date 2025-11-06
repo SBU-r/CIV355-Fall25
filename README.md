@@ -29,6 +29,9 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Oct 23           |6. Monte Carlo Simulation (cont.)
 |Oct 28
 |Oct 30           |Exam (in class)
+|Nov 04           |Introduction to ML and AI
+|Nov 06           |Learning from Data          |9. Learning_from_Data.pdf
+|Nov 06           |Regression                  |10. Regression.pdf         |Regression.ipynb
 
 
  
