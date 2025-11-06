@@ -8,9 +8,9 @@ This repository is created for the elective course CIV 355: Introduction to Data
 |Date          |Module  and Topic        |Lecture Notes    |Jupyter Notebooks        
 | -------------------|-----------------------------------------|-------------------------------|--------------------|
 |                 |1. Fundamentals of Python Programming         |Module 1.pdf        
-|Aug 26           |1.1 Python Coding Environment                 |                               |1. Start Colab.ipynb   |
-|Aug 28           |1.2 Numpy                                     |                    |2. Numpy.ipynb                     |
-|Sep 02           |1.3 Pandas| |Pandas.ipynb                     |
+|Aug 26           |1.1 Python Coding Environment                 |                               |0. Start Colab.ipynb   |
+|Aug 28           |1.2 Numpy                                     |                    |1. Numpy.ipynb                     |
+|Sep 02           |1.3 Pandas| |2. Pandas.ipynb                     |
 |Sep 04           |1.4 Data Cleaning and Preparation             |     |3. Data_Preparation.ipynb
 |                 |2. Data Understanding, Description, and Summary             |    |4. Data_Understanding.ipynb
 |Sep 09           |2. Data Understanding, Description, and Summary (cont.)     |
